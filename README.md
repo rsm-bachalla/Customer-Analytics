@@ -1,7 +1,5 @@
 ## Introduction: 
-In this Customer Analytics course, I learned how to use data to make better business decisions. The course taught me to understand customer behavior by working on real-life business problems. I got to use different tools and methods like logistic regression, neural networks, and more to figure out things like which customers might leave a service (churn prediction) or how to group customers together in useful ways (segmentation).
-
-We did a lot of hands-on projects where I had to clean data, choose the right model, make predictions, and explain what the results mean for a business. This helped me see how what we learn in class can actually help businesses understand their customers better and make smarter choices.
+In the Customer Analytics course, I learned how to use data to make better business decisions. The course taught me to understand customer behavior by working on real-life business problems. I got to use different tools and methods like logistic regression, neural networks, and more to figure out things like which customers might leave a service (churn prediction) or how to group customers together in useful ways (segmentation).
 
 **1. Intuit QuickBooks**: Predictive Modeling for Marketing Efficiency
 
